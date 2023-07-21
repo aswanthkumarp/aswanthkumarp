@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **React,Nodejs**
+- 🌱 I’m currently learning **React,Nodejs,Express**
 
 - 📫 How to reach me **aswanthkumar777@gmail.com**
 
