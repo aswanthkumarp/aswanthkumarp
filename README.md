@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a Full Stack Web Development project, specifically a web polling app using the MERN stack.<br>👯 I'm looking to collaborate on open-source web development projects and innovative web applications.<br>🌱 I'm currently learning Node.js programming to strengthen my backend development skills.<br>💬 Ask me about web development, MERN stack, JavaScript, React, MongoDB, or any questions related to web polling applications.<br>⚡ Fun fact: I enjoy the challenge of optimizing database queries and finding efficient solutions in backend development.<br>
+🔭 I'm currently working on a Full Stack Web Development project, specifically a web Blog app using React and Firebase.<br>👯 I'm looking to collaborate on open-source web development projects and innovative web applications.<br>🌱 I'm currently learning Node.js programming to strengthen my backend development skills.<br>💬 Ask me about web development, MERN stack, JavaScript, React, MongoDB, or any questions related to web polling applications.<br>⚡ Fun fact: I enjoy the challenge of optimizing database queries and finding efficient solutions in backend development.<br>
 [[PortFolio](https://aswanthkumarp.github.io/dev-portfolio)]
 
 
